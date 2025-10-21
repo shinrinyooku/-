@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\labuba\labuba\labuba\main.c(146,1): warning C4715: find: значение возвращается не при всех путях выполнения
+  labuba.vcxproj -> C:\Users\Administrator\Desktop\labuba\labuba\x64\Debug\labuba.exe
